@@ -2,12 +2,12 @@
 ; v0.1
 ;
 ; The objective of this installer is to simplify the installation
-; for new students how don't know how to extract Microsoft's ISO file.
+; for new students who don't know how to extract Microsoft's ISO file.
 ;
 ; This installer simply extracts and runs the setup of this publicly available ISO:
 ; http://download.microsoft.com/download/1/E/5/1E5F1C0A-0D5B-426A-A603-1798B951DDAE/VS2010Express1.iso
 ;
-; NOTE: Visual Studio 2010 Express is owned and copyrighted by © Microsoft. All Rights Reserved.
+; NOTE: Visual Studio 2010 Express is owned and copyrighted by Â© Microsoft. All Rights Reserved.
 ;        I just wrote this small wrapper to make it easier for first time students to get started.
 ;
 ;Written by Adam Ben Ezer
